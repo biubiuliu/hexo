@@ -95,5 +95,3 @@ theme: hexo-theme-geektutu-master
 然后部署就OK了
 
 ![最终效果](http://pykvjcrlq.bkt.clouddn.com/blog_view.png)
-
-
