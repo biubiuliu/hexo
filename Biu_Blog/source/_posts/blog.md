@@ -35,6 +35,16 @@ hexo_
 
 #### 第三步  发布
 
+发布之前配置在_config.yml中配置
+
+```
+
+deploy:
+  type: git
+  repo: https://gitee.com/biubiuliu/blog.git
+  branch: master
+```
+
 发布到Gitee
 输入命令`npm install hexo-deployer-git --save` 安装自动部署发布工具
 输入命令`hexo g ` 生成 public文件 里面是 静态html
